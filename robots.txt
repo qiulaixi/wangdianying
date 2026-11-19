@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qiulaixi.github.io/wangdianying/sitemap.xml
